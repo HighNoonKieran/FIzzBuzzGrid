@@ -1,0 +1,22 @@
+#grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 250px;
+}
+
+button {
+
+    cursor: pointer; 
+    height: 50px;
+    width: 50px; 
+}
+
+button.fizzbuzz {
+    background: #ffff08;
+} 
+button.buzz {
+    background: #ff0000;
+} 
+button.fizz {
+    background: #00ff00;
+} 
